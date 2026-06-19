@@ -20,7 +20,7 @@
 /public/storage
 /storage/*.key
 /storage/pail
-backed-laraval/resources/views/html/
+/resources/views/html/
 /vendor
 _ide_helper.php
 Homestead.json
